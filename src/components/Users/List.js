@@ -51,7 +51,7 @@ export default function List() {
           </div>
         </div>
         <div class="card-body table-responsive">
-          {loading && <Loader />}
+          {/* {loading && <Loader />}  */}
 
           {/* {!props.isLoading && ( */}
           <>
