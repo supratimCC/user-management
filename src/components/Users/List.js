@@ -38,7 +38,7 @@ export default function List() {
           <div>
             <span>User List</span>
           </div>
-          
+
           <div>
             <button
               onClick={() => {
@@ -112,7 +112,7 @@ export default function List() {
                 </tbody>
               </table>
             </div>
-            <Pagination data={records} />
+            {/* <Pagination data={records} /> */}
           </>
           {/* )} */}
         </div>
